@@ -1,0 +1,104 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="moh.gov.il.specialble"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.BLUETOOTH" />
+11-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:4:5-68
+11-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:4:22-65
+12    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+12-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:5:5-74
+12-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:5:22-71
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:6:5-79
+13-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:6:22-76
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+14-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:7:5-81
+14-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:7:22-78
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:8:5-67
+15-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:8:22-64
+16    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+16-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:9:5-77
+16-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:9:22-74
+17    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+17-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:10:5-81
+17-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:10:22-78
+18    <uses-permission android:name="android.permission.WAKE_LOCK" />
+18-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:11:5-68
+18-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:11:22-65
+19    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
+19-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:12:5-94
+19-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:12:22-92
+20
+21    <uses-feature
+21-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:13:5-90
+22        android:name="android.hardware.bluetooth_le"
+22-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:13:19-63
+23        android:required="false" />
+23-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:13:64-88
+24
+25    <application>
+25-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:15:5-37:19
+26        <activity
+26-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:16:9-163
+27            android:name="moh.gov.il.specialble.activities.BatteryOptimizationHolderActivity"
+27-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:16:19-100
+28            android:theme="@style/Theme.AppCompat.Translucent" />
+28-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:16:101-151
+29
+30        <provider
+30-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:17:9-25:20
+31            android:name="androidx.core.content.FileProvider"
+31-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:18:13-62
+32            android:authorities="${applicationId}.provider"
+32-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:19:13-60
+33            android:exported="false"
+33-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:20:13-37
+34            android:grantUriPermissions="true" >
+34-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:21:13-47
+35            <meta-data
+35-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:22:13-24:58
+36                android:name="android.support.FILE_PROVIDER_PATHS"
+36-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:23:17-67
+37                android:resource="@xml/provider_paths" />
+37-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:24:17-55
+38        </provider>
+39
+40        <service android:name="moh.gov.il.specialble.BLEForegroundService" />
+40-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:26:9-78
+40-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:26:18-75
+41
+42        <receiver android:name="moh.gov.il.specialble.receivers.AlarmReceiver" />
+42-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:27:9-81
+42-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:27:19-79
+43        <receiver android:name="moh.gov.il.specialble.BLEReceiver" >
+43-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:28:9-36:20
+43-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:28:19-67
+44            <intent-filter>
+44-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:29:13-35:29
+45                <action android:name="android.intent.action.BOOT_COMPLETED" />
+45-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:30:17-79
+45-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:30:25-76
+46                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+46-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:31:17-84
+46-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:31:25-81
+47                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+47-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:32:17-82
+47-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:32:25-79
+48                <!-- For HTC devices -->
+49                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
+49-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:34:17-81
+49-->/Users/edwardkeselman/Desktop/Work/Hamagen/hamagen-react-native/node_modules/rn-contact-tracing/lib/android/src/main/AndroidManifest.xml:34:25-79
+50            </intent-filter>
+51        </receiver>
+52    </application>
+53
+54</manifest>

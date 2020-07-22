@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="example/app" />
+      <module fileurl="file://$PROJECT_DIR$/example.iml" filepath="$PROJECT_DIR$/example.iml" group="example" />
+      <module fileurl="file://$PROJECT_DIR$/../../node_modules/@react-native-community/blur/android/react-native-community_blur.iml" filepath="$PROJECT_DIR$/../../node_modules/@react-native-community/blur/android/react-native-community_blur.iml" group="example/react-native-community_blur" />
+      <module fileurl="file://$PROJECT_DIR$/../../node_modules/@react-native-community/datetimepicker/android/react-native-community_datetimepicker.iml" filepath="$PROJECT_DIR$/../../node_modules/@react-native-community/datetimepicker/android/react-native-community_datetimepicker.iml" group="example/react-native-community_datetimepicker" />
+      <module fileurl="file://$PROJECT_DIR$/../../node_modules/@react-native-community/masked-view/android/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/../../node_modules/@react-native-community/masked-view/android/react-native-community_masked-view.iml" group="example/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/../../node_modules/@react-native-community/netinfo/android/react-native-community_netinfo.iml" filepath="$PROJECT_DIR$/../../node_modules/@react-native-community/netinfo/android/react-native-community_netinfo.iml" group="example/react-native-community_netinfo" />
+      <module fileurl="file://$PROJECT_DIR$/../../node_modules/@react-native-firebase/app/android/react-native-firebase_app.iml" filepath="$PROJECT_DIR$/../../node_modules/@react-native-firebase/app/android/react-native-firebase_app.iml" group="example/react-native-firebase_app" />
+      <module fileurl="file://$PROJECT_DIR$/../../node_modules/@react-native-firebase/crashlytics/android/react-native-firebase_crashlytics.iml" filepath="$PROJECT_DIR$/../../node_modules/@react-native-firebase/crashlytics/android/react-native-firebase_crashlytics.iml" group="example/react-native-firebase_crashlytics" />
+      <module fileurl="file://$PROJECT_DIR$/../../node_modules/react-native-gesture-handler/android/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/../../node_modules/react-native-gesture-handler/android/react-native-gesture-handler.iml" group="example/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/../../node_modules/react-native-reanimated/android/react-native-reanimated.iml" filepath="$PROJECT_DIR$/../../node_modules/react-native-reanimated/android/react-native-reanimated.iml" group="example/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/../../node_modules/react-native-safe-area-context/android/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/../../node_modules/react-native-safe-area-context/android/react-native-safe-area-context.iml" group="example/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/../../node_modules/react-native-screens/android/react-native-screens.iml" filepath="$PROJECT_DIR$/../../node_modules/react-native-screens/android/react-native-screens.iml" group="example/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/../../node_modules/react-native-ui-lib/lib/android/react-native-ui-lib.iml" filepath="$PROJECT_DIR$/../../node_modules/react-native-ui-lib/lib/android/react-native-ui-lib.iml" group="example/react-native-ui-lib" />
+      <module fileurl="file://$PROJECT_DIR$/../../lib/android/rn-contact-tracing.iml" filepath="$PROJECT_DIR$/../../lib/android/rn-contact-tracing.iml" group="example/rn-contact-tracing" />
+    </modules>
+  </component>
+</project>

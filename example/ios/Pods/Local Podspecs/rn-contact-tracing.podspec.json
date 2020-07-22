@@ -1,0 +1,31 @@
+{
+  "name": "rn-contact-tracing",
+  "version": "0.0.3",
+  "summary": "React Native Library For Contact Tracing Over BLE (Bluetooth Low Energy) To Fight COVID-19 Pandemic",
+  "description": "rn-contact-tracing",
+  "homepage": "https://github.com/github_account/rn-contact-tracing",
+  "license": "MIT",
+  "authors": {
+    "Lev": "lev.vidrak@gmail.com"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/wix-incubator/rn-contact-tracing.git",
+    "tag": "0.0.3"
+  },
+  "source_files": "lib/ios/**/*.{h,m,swift}",
+  "resources": "rn-contact-tracing/*.xcdatamodel",
+  "resource_bundles": {
+    "FrameworkModel": [
+      "lib/ios/db/CoreData/**/*.xcdatamodeld"
+    ]
+  },
+  "requires_arc": true,
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}

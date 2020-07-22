@@ -1,0 +1,65 @@
+{
+  "name": "rn-contact-tracing",
+  "title": "Rn Special Ble",
+  "version": "0.0.3",
+  "description": "React Native Library For Contact Tracing Over BLE (Bluetooth Low Energy) To Fight COVID-19 Pandemic",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wix-incubator/rn-contact-tracing.git"
+  },
+  "main": "lib/src/index.js",
+  "contributors": [
+    "Lev Vidrak <levv@wix.com>",
+    "Ran Greenberg <rang@wix.com>"
+  ],
+  "author": {
+    "name": "Lev",
+    "email": "lev.vidrak@gmail.com"
+  },
+  "keywords": [
+    "react-native",
+    "COVID-19",
+    "BLE"
+  ],
+  "scripts": {
+    "android": "react-native run-android --root \"./example\"",
+    "ios": "react-native run-ios --project-path \"./example/ios\"",
+    "xcode": "open example/ios/example.xcworkspace",
+    "androidStudio": "open -a /Applications/Android\\ Studio.app ./example/android",
+    "start": "watchman watch-del-all && react-native start",
+    "test": ":",
+    "lint": "eslint .",
+    "postinstall": "rm -rf ../node_modules",
+    "pod": "node scripts/pod.js"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/runtime": "^7.9.2",
+    "@react-native-community/blur": "^3.4.1",
+    "@react-native-community/datetimepicker": "^2.1.0",
+    "@react-native-community/eslint-config": "^1.0.0",
+    "@react-native-community/netinfo": "^5.6.2",
+    "@react-navigation/bottom-tabs": "^5.2.6",
+    "@react-navigation/native": "^5.1.5",
+    "babel-jest": "^25.2.6",
+    "eslint": "^6.8.0",
+    "jest": "^25.2.7",
+    "metro-react-native-babel-preset": "^0.59.0",
+    "react": "^16.9.0",
+    "react-native": "^0.61.5",
+    "react-native-gesture-handler": "^1.5.0",
+    "react-native-reanimated": "^1.4.0",
+    "@react-navigation/stack": "^5.2.11",
+    "@react-native-community/masked-view": "^0.1.9",
+    "react-native-safe-area-context": "^0.7.3",
+    "react-native-screens": "^2.5.0",
+    "react-native-ui-lib": "^5.6.0",
+    "react-test-renderer": "16.9.0",
+    "shelljs": "^0.8.3",
+    "@react-native-firebase/app": "^6.7.1",
+    "@react-native-firebase/crashlytics": "^6.7.1"
+  }
+}
